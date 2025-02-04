@@ -2,3 +2,7 @@
 Name: AJ
 Villain Name: Twistychanter Catcher
 Superhero Name: Boom Boom
+
+Name: Fiona
+Villain Name: Motleyscale Samurai
+Superhero Name: Victor Mancha
